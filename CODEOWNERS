@@ -1,0 +1,16 @@
+# Comment line immediately above ownership line is reserved for related other information. Please be careful while editing.
+#ECCN:Open Source
+#GUSINFO:SC_CARBON_WARRIORS_1,Net Zero Cloud
+
+# Default owners for the entire repository
+* @carlosvl
+
+# Documentation
+/README.md @carlosvl
+/CONTRIBUTING.md @carlosvl
+/LICENSE* @carlosvl
+/SECURITY.md @carlosvl
+/CODE_OF_CONDUCT.md @carlosvl
+
+# Source code
+/assets/ @carlosvl
