@@ -1,18 +1,8 @@
 /*
  * Copyright (c) 2026, Salesforce, Inc.
- * SPDX-License-Identifier: Apache-2
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- *     http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
+ * All rights reserved.
+ * SPDX-License-Identifier: Apache-2.0
+ * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/Apache-2.0
  */
 window.ICONS = {
   flag: `<svg viewBox="0 0 48 48" aria-hidden="true"><path fill="currentColor" d="M10 6h4v36h-4z"/><path fill="currentColor" d="M14 8h22l-4 7 4 7H14z"/></svg>`,

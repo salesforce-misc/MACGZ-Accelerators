@@ -17,3 +17,7 @@ Added DEPENDENCIES.md following the OSS dependency guide; two fonts (OFL-1.1) an
 
 ## [2026-10-29] decision | License and governance confirmed
 - Apache-2.0 and Salesforce Sponsored confirmed.
+
+## [2026-11-02] ingest | Scrub internal info, align license with NZC-EasyAudit
+- DEPENDENCIES.md: removed internal guide/contact references. LICENSE.txt replaced with NZC-EasyAudit's standard Apache-2.0 text; file headers now use NZC's SPDX `Apache-2.0` header.
+- CODEOWNERS owner changed to @carlosvl; GUSINFO unchanged (team and tag verified in GUS), pending reviewer follow-up. Global skill `oss-codeowners` created.
